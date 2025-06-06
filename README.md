@@ -43,7 +43,7 @@ Key tables included:
 
 - Most common diagnoses: **Anxiety Disorder** and **Chronic Pain**  
 - Prescription trends showed 5 medications dominated treatment patterns  
-- High-cost procedures (₹3000+) accounted for **~40%** of all procedures  
+- High-cost procedures ($3000+) accounted for **~40%** of all procedures  
 - **Neurology** and **Cardiology** had the most physician affiliations  
 - Majority of registered nurses were in the **Head Nurse** position
 

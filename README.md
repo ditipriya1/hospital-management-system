@@ -35,6 +35,7 @@ Key tables included:
 - `Patient`
 - `Patient_Diagnosis`
 - `Procedures`
+- `Affiliated_with`
 
 
 ---
